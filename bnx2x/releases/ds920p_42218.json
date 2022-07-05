@@ -5,7 +5,7 @@
     {
       "name": "bnx2x-4.4.180plus-geminilake.tgz",
       "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/bnx2x/releases/bnx2x-4.4.180plus-geminilake.tgz",
-      "sha256": "8cd39bed8c8f95c735ea6c4391b5c67250ca8d529474041cacefe77bb3190cc5",
+      "sha256": "c719da0d4ca298fdfb4d212a97db059cf33bdad50d7b93c715a87c71704b4fa1",
       "packed": true
     },
     {
@@ -17,6 +17,7 @@
   ],
 
   "kmods": {
+    "mdio.ko": "",
     "bnx2x.ko": ""
   },
 
