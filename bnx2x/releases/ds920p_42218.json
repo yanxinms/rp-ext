@@ -4,13 +4,13 @@
   "files": [
     {
       "name": "bnx2x-4.4.180plus-geminilake.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/bnx2x/releases/bnx2x-4.4.180plus-geminilake.tgz",
+      "url": "https://raw.githubusercontent.com/yanxinms/rp-ext/master/bnx2x/releases/bnx2x-4.4.180plus-geminilake.tgz",
       "sha256": "c719da0d4ca298fdfb4d212a97db059cf33bdad50d7b93c715a87c71704b4fa1",
       "packed": true
     },
     {
       "name": "check-bnx2x.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/bnx2x/src/check-bnx2x.sh",
+      "url": "https://raw.githubusercontent.com/yanxinms/rp-ext/master/bnx2x/src/check-bnx2x.sh",
       "sha256": "b72f68c52684de17db0e0dc2d10be91a26b560360e9d2b38e1c221a286b35f74",
       "packed": false
     }
